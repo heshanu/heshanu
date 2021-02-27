@@ -3,7 +3,7 @@
 - 🔭 I’m a self learner!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 
 [![Heshan's github stats](https://github-readme-stats.vercel.app/api?username=heshanu&hide=contribs,prs&theme=radical)](https://github.com/heshanu/github-readme-stats)
