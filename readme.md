@@ -2,7 +2,7 @@
 
 - 🔭 I’m a self learner!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with others
+- 👯 I’m looking to collaborate with others,Technology must be free to everyone
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 
