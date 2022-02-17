@@ -3,15 +3,10 @@
 - 🔭 I’m a self learner!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others,Technology must be free to everyone
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 
 [![Heshan's github stats](https://github-readme-stats.vercel.app/api?username=heshanu&hide=contribs,prs&theme=radical)](https://github.com/heshanu/github-readme-stats)
-
-
-
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
