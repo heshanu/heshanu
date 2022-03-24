@@ -5,10 +5,7 @@
 - 👯 I’m looking to collaborate with others,Technology must be free to everyone
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
-<h1 align="center"> 👋 Hi , I'm Heshan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;Full%20Stack%2Developer;1%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-</p>
+
 
 <p align='center'>
  <h1 align="center">
@@ -16,7 +13,12 @@
   <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 </h1>
-
+<br><br>
+<h1 align="center"> 👋 Hi , I'm Heshan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;Full%20Stack%2Developer;1%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
+<br><br>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=heshanu.heshanu" />
 <img align="right" src="https://img.shields.io/github/followers/heshanu?label=Follow&style=social" />
 <h1 align="center"></h1>
