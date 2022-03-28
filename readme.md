@@ -26,7 +26,7 @@
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshanu&layout=compact&theme=monokai&count_private=true">
 <img height="150px" />
 
-[![Heshan's github stats](https://github-readme-stats.vercel.app/api?username=heshanu&hide=contribs,prs&theme=radical)](https://github.com/heshanu/github-readme-stats)
+
 
 ### Connect with me:
 
