@@ -1,6 +1,7 @@
 ### Hi there, I'm Heshan👋
 
 - 🔭 I’m a self learner(coursera,udemy,edx)!
+- 🔭 I’m currenly learning and developing Angular, SpringBoot frameworks !
 - 🌱 I’m currenly Undergraduate at University of Vocational Technology(UoVT)
 - 👯 I’m looking to collaborate with others,Technology must be free to everyone
 - 🥅 2022 Goals: Contribute more to Open Source projects
