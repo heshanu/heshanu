@@ -4,7 +4,7 @@
 - 🔭 I’m currenly learning and developing Angular,React, SpringBoot frameworks !
 - 🌱 I’m currenly Undergraduate at University of Vocational Technology(UoVT)
 - 👯 I’m looking to collaborate with others,Technology must be free to everyone
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 
 
@@ -16,7 +16,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Machine%20Learning%20Engineer;DevOps%20Engineer;Full%20Stack%20Developer;1%2B%20years%20of%20coding%20experience;%20student%20of%20UoVT%20;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Machine%20Learning%20Engineer;Full%20Stack%20Developer;1%2B%20years%20of%20coding%20experience;%20student%20of%20UoVT%20;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 <br><br>
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Star Badge"/>
@@ -65,7 +65,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java   7 hrs 44 mins   ████████████▓░░░░░░░░░░░░   50.04 %
+Java   7 hrs 44 mins         ████████████▓░░░░░░░░░░░░   50.04 %
 TypeScript   7 hrs 24 mins   ████████████░░░░░░░░░░░░░   47.86 %
 Bash         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 HTML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
