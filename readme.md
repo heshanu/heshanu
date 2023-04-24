@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 </h1>
 <br/> 
-<img align="center" src="https://drive.google.com/file/d/1140eIJTDl2QGgw_2PbQd8FdnH_ffUAkN/view?usp=drivesdk" alt="avatar"/>
+<img align="center" src="https://drive.google.com/file/d/1140eIJTDl2QGgw_2PbQd8FdnH_ffUAkN/heshanuavatar.png/view?usp=drivesdk" alt="avatar"/>
 <br/>
 <p align="center">
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Machine%20Learning%20Engineer;Full%20Stack%20Developer;1%2B%20years%20of%20coding%20experience;%20student%20of%20UoVT%20;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
