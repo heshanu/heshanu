@@ -14,7 +14,7 @@
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<img src="https://drive.google.com/file/d/1140eIJTDl2QGgw_2PbQd8FdnH_ffUAkN/view?usp=drivesdk"/>
+<img src="https://drive.google.com/file/d/1140eIJTDl2QGgw_2PbQd8FdnH_ffUAkN/view?usp=drivesdk" alt="avatar"/>
 
 </h1>
 
@@ -68,7 +68,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java   7 hrs 44 mins         ████████████▓░░░░░░░░░░░░   50.04 %
+Java         7 hrs 44 mins   ████████████▓░░░░░░░░░░░░   50.04 %
 TypeScript   7 hrs 24 mins   ████████████░░░░░░░░░░░░░   47.86 %
 Bash         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 HTML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
