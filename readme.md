@@ -28,7 +28,6 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Star Badge"/>
 <br><br>
 
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heshanu&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heshanu&theme=github_dark)
