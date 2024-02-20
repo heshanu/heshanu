@@ -5,7 +5,7 @@
 - 🔭 I’m currenly learning and developing Angular,React, React Native, SpringBoot frameworks !
 - 🌱 I’m currenly Undergraduate at University of Vocational Technology(UoVT)
 - 👯 I’m looking to collaborate with others,Technology must be free to everyone
-- 🥅 2023 Goals: Contribute more to Open Source projects CNCF.
+- 🥅 2024 Goals: Contribute more to Open Source projects CNCF.
 
 
 <p align='center'>
