@@ -10,6 +10,7 @@
 
 <p align='center'>
  <h1 align="center">
+<img align="center" style="height:500px,width:500px"  src="https://github.com/IT20642914/IT20642914/blob/main/codeAnimationGif.gif" alt="avatar"/><br/> 	 
 <img align="center" style="height:500px,width:500px"  src="https://github.com/heshanu/Avatar/blob/master/IMG_20240821_174203.jpg" alt="avatar"/><br/> 
   <img src="https://raw.githubusercontent.com/blocage/blocage/main/contributions.svg"/>
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
